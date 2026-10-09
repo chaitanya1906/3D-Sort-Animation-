@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Win32-GCC",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/raylib-6.0_win64_mingw-w64/include",
+        "C:/raylib-6.0_win64_mingw-w64/raylib-6.0_win64_mingw-w64/include"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "C:/winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1/mingw64/bin/g++.exe",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}

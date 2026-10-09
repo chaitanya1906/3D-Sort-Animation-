@@ -1,0 +1,31 @@
+# Compiled Executables & Objects
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Specific binaries
+sorting.exe
+sorting_visualizer.exe
+
+# Local Libraries & Dependencies
+raylib*/
+raylib-6.0_win64_mingw-w64/
+
+# Build Folders & Artifacts
+build/
+bin/
+obj/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
